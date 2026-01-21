@@ -1,6 +1,15 @@
 # mdias-oled
 
-A vibrant OLED-friendly theme for [Ghostty](https://ghostty.org) with pure black background, marine green accents, and hot pink highlights.
+```
+  ███╗   ███╗██████╗ ██╗ █████╗ ███████╗        █████╗ ██╗     ███████╗██████╗
+  ████╗ ████║██╔══██╗██║██╔══██╗██╔════╝       ██╔══██╗██║     ██╔════╝██╔══██╗
+  ██╔████╔██║██║  ██║██║███████║███████╗█████╗ ██║  ██║██║     █████╗  ██║  ██║
+  ██║╚██╔╝██║██║  ██║██║██╔══██║╚════██║╚════╝ ██║  ██║██║     ██╔══╝  ██║  ██║
+  ██║ ╚═╝ ██║██████╔╝██║██║  ██║███████║       ╚█████╔╝███████╗███████╗██████╔╝
+  ╚═╝     ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝        ╚════╝ ╚══════╝╚══════╝╚═════╝
+```
+
+A vibrant OLED-friendly theme for [Ghostty](https://ghostty.org) with pure black background, marine green accents, and hot pink highlights. Inspired by **vaporwave** aesthetics.
 
 ## Screenshots
 
@@ -41,6 +50,10 @@ A vibrant OLED-friendly theme for [Ghostty](https://ghostty.org) with pure black
    ```
 
 3. Restart Ghostty.
+
+## Inspiration
+
+This theme draws inspiration from **vaporwave** aesthetics - combining neon cyans and hot pinks against pure black, evoking late-night coding sessions and retro-futuristic vibes.
 
 ## License
 
